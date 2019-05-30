@@ -1,0 +1,1 @@
+? "Version de Clipper: "+version()

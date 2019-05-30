@@ -1,0 +1,5 @@
+SETVIDEO(12)
+          DOT(100,200,165)
+          DOT(100,201,165)
+WAIT
+SETVIDEO(3)
